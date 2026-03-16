@@ -1,4 +1,4 @@
-[asephera.github.io](asephera.github.io)
+[Site](https://asephera.github.io)
 
 # Astro Starter Kit: Blog
 
